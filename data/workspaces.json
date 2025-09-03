@@ -1,0 +1,45 @@
+{
+  "workspaces": [
+    {
+      "id": "mf42bmuufa6bomumpgj",
+      "name": "New Workspace",
+      "description": "A new workspace created from Nova",
+      "createdAt": "2025-09-03T14:18:31.926Z",
+      "updatedAt": "2025-09-03T14:18:31.926Z",
+      "apps": [],
+      "browserTabs": [],
+      "layout": {
+        "type": "side-by-side"
+      },
+      "settings": {
+        "enableDND": false,
+        "focusMode": false,
+        "closeOtherApps": false,
+        "restoreBrowserState": true
+      }
+    },
+    {
+      "id": "mf42ul4k33lyae34h7",
+      "name": "New Workspace",
+      "description": "A new workspace created from Nova",
+      "createdAt": "2025-09-03T14:33:16.148Z",
+      "updatedAt": "2025-09-03T14:33:16.148Z",
+      "apps": [],
+      "browserTabs": [],
+      "layout": {
+        "type": "side-by-side"
+      },
+      "settings": {
+        "enableDND": false,
+        "focusMode": false,
+        "closeOtherApps": false,
+        "restoreBrowserState": true
+      }
+    }
+  ],
+  "settings": {
+    "defaultWorkspacePath": "/Users/jasonmun/Projects/nova/workspaces",
+    "ollamaUrl": "http://localhost:11434",
+    "ollamaModel": "llama3.2:latest"
+  }
+}
